@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "webpack-test2",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing webpack extentions template as part of class assignments",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
